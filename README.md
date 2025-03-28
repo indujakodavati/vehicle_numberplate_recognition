@@ -1,1 +1,2 @@
 # vehicle_numberplate_recognition
+In this project, my objective is to detect and display text of number plates from images of Indian vehicles using computer vision and image processing techniques. I utilized a dataset of Indian vehicle images sourced from Kaggle. To achieve number plate detection, i employed filters for noise reduction and edge detection, and apply masks to the images to pinpoint the number plate's location. A key benefit of number plate recognition program is that it can accurately process a single image of a vehicle.
